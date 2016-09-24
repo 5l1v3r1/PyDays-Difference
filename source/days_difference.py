@@ -18,7 +18,7 @@ days_difference_ico = """
 
 star = "#########################################################"
 
-print days_difference
+print days_difference_ico
 
 ## First
 first_year = input("İlk yılı giriniz : ")
